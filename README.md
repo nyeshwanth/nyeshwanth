@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+👋 I’m @Yeshwanth N  
+👀 I’m interested in learning and train others on what I learn and guide them in right path.
+🌱 I’m currently learning all the needed advanced tech
+💞️ I’m looking to collaborate on ...
+📫 You can reach me through mail yeshwanthcreative@gmail.com
+
 <!--
 **nyeshwanth/nyeshwanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
